@@ -1,0 +1,15 @@
+black
+platformdirs
+regex
+typing-extensions
+coverage
+enforce-typing
+eth-brownie
+matplotlib
+mypy
+pylint
+pytest>=6.2.5
+click
+tomli
+referencing
+attrs
