@@ -1,3 +1,8 @@
+
+# This is a mini coffee shop simulation forked from the TokenSpice ABM framework
+
+
+
 <img src="images/tokenspice-banner-thin.png" width="100%">
 
 # TokenSPICE: EVM Agent-Based Token Simulator
