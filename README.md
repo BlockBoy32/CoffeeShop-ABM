@@ -1,5 +1,8 @@
 
-# This is a mini coffee shop simulation forked from the TokenSpice ABM framework
+# **This is a mini coffee shop simulation forked from the TokenSpice ABM framework**
+
+
+## ---------------------------------
 
 
 
